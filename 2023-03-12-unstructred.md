@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "My unstructured Data Project"
+---
+
 ```python
 # !pip install Pillow`
 # !pip install opencv-python # Use opencv for finding outlines of the differences in the pictures
